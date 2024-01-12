@@ -1,5 +1,20 @@
 # Yelp_Recommendation_System
 
+## Overview
+The project involves a competition to improve the performance of a recommendation system using data mining techniques. Participants are required to enhance the prediction accuracy and efficiency of a recommendation system from a previous assignment (Assignment 3) using any method, such as hybrid recommendation systems.
+
+### Competition Requirements
+- **Programming Language**: Python 3.6
+- **Library Requirements**: External Python libraries are allowed as long as they are available on Vocareum
+- **Spark Usage**: Only Spark RDD is allowed for operations
+- **Programming Environment**: Python 3.6, Scala 2.12, JDK 1.8, and Spark 3.1.2
+
+### Yelp Data
+The datasets for the competition are provided in a Google Drive folder, including training and validation datasets, as well as additional information about users, businesses, reviews, check-ins, tips, and photos.
+
+### Task
+Participants are tasked with building a recommendation system to predict (user, business) pairs. Evaluation can be done based on error distribution and RMSE.
+
 ## Model Training Process
 
 ### Method Used
@@ -40,4 +55,5 @@
 
 - **RMSE**: 0.9762416542492776
 - **Execution Time**: 451.3598358631134 seconds
+- **Grade**: 100%
 
