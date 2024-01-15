@@ -10,10 +10,10 @@ The project involves a competition to improve the performance of a recommendatio
 - **Programming Environment**: Python 3.6, Scala 2.12, JDK 1.8, and Spark 3.1.2
 
 ### Yelp Data
-The datasets for the competition are provided in a Google Drive folder, including training and validation datasets, as well as additional information about users, businesses, reviews, check-ins, tips, and photos.
+The datasets for the competition are provided (some datasets cannot be uploaded due to size), including training and validation datasets, as well as additional information about users, businesses, reviews, check-ins, tips, and photos.
 
 ### Task
-Participants are tasked with building a recommendation system to predict (user, business) pairs. Evaluation can be done based on error distribution and RMSE.
+Participants are tasked with building a recommendation system to predict stars for (user, business) pairs. Evaluation can be done based on error distribution and RMSE.
 
 ## Model Training Process
 
