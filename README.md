@@ -1,7 +1,7 @@
 # Yelp_Recommendation_System
 
 ## Overview
-The project involves a competition to improve the performance of a recommendation system using data mining techniques. Participants are required to enhance the prediction accuracy and efficiency of a recommendation system from a previous assignment (Assignment 3) using any method, such as hybrid recommendation systems.
+The project involves a competition to create the best recommendation system using data mining techniques. Participants are required to enhance the prediction accuracy and efficiency of a recommendation system from a previous assignment (Assignment 3) using any method, such as hybrid recommendation systems.
 
 ### Competition Requirements
 - **Programming Language**: Python 3.6
