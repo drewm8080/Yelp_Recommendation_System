@@ -52,7 +52,7 @@ Participants are tasked with building a recommendation system to predict stars f
 
 ## Model Evaluation
 
-- **RMSE**: 0.9762416542492776
+- **RMSE on Test Data**: 0.9762416542492776 (one of the best in the class)
 - **Execution Time**: 451.3598358631134 seconds
 - **Grade**: 100%
 
